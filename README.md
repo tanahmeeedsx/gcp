@@ -21,9 +21,18 @@ A hands-on learning repository documenting my journey with Google Cloud Platform
 | Security | IAM, service accounts, and least-privilege access |
 | Operations | Cloud Monitoring, Logging, and cost optimization |
 
+## Labs
+
+- [Cloud Run: First Deployment](labs/cloud-run-first-deployment.md) — deploy and verify a sample container, then clean up.
+
 ## Repository Structure
 
-This repository will contain organized notes, hands-on labs, configuration files, and practical projects as I progress.
+```
+gcp/
+├── labs/
+│   └── cloud-run-first-deployment.md
+└── README.md
+```
 
 ## Progress
 
